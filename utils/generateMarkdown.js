@@ -125,7 +125,8 @@ function generateMarkdown(data) {
   ${testing}
 
   ## Questions
-[GitHub Profile](#https://github.com/${github})
+
+[GitHub](https://github.com/${github}): ${github}
   
   I am also available via email at: ${email}
   `;
